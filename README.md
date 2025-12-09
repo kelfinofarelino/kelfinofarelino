@@ -36,8 +36,8 @@ Here are the technologies and software I use, grouped by function:
 ### 📊 GitHub Statistics
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=kelfinofarelino&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&layout=compact&theme=radical&hide_border=true)
+  ![](https://nirzak-streak-stats.vercel.app/?user=kelfinofarelino&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ---
