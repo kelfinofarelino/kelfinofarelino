@@ -1,9 +1,8 @@
 <div align="center">
 
-# Ｈｅｌｌｏ Ｗｏｒｌｄ！ 
-## This is 𝐅𝐚𝐫𝐞𝐥𝐢𝐧𝐨 𝐊𝐞𝐥𝐟𝐢𝐧
+# Ｈｅｌｌｏ Ｗｏｒｌｄ！ This is 𝐅𝐚𝐫𝐞𝐥𝐢𝐧𝐨 𝐊𝐞𝐥𝐟𝐢𝐧
 
-A **Information Technology** student and passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
+A **Computer Science** student and passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
 </div>
 
 ---
