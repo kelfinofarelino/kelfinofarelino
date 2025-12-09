@@ -36,8 +36,8 @@ Here are the technologies and software I use, grouped by function:
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelfinofarelino&show_icons=true&theme=radical&hide_border=true" alt="Statistik Kelfin" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&layout=compact&theme=radical&hide_border=true" alt="Bahasa Teratas" />
+  ![Kelfino Statistics](https://github-readme-stats.vercel.app/api?username=kelfinofarelino&show_icons=true&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&layout=compact&theme=radical&hide_border=true)
 </p>
 
 ---
