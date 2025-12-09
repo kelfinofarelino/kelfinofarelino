@@ -1,9 +1,9 @@
 <div align="center">
 
 # Ｈｅｌｌｏ Ｗｏｒｌｄ！ 
-# This is Farelino Kelfin
+This is Farelino Kelfin
 
-**Information Technology** student and passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
+A **Information Technology** student and passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
 </div>
 
 ---
@@ -38,17 +38,15 @@ Here are the technologies and software I use, grouped by function:
 
 <div align="center">
   <a href="https://github.com/kelfinofarelino">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=kelfinofarelino&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Farelino's GitHub Stats" />
+    <img src="https://img.shields.io/github/followers/kelfinofarelino?style=for-the-badge&logo=github&color=232323&label=Followers&labelColor=151515" />
+    <img src="https://img.shields.io/github/stars/kelfinofarelino?style=for-the-badge&logo=github&color=232323&label=Stars&labelColor=151515" />
+    <img src="https://img.shields.io/github/repositories/kelfinofarelino?style=for-the-badge&logo=github&color=232323&label=Repositories&labelColor=151515" />
   </a>
-
+  <br/>
   <a href="https://github.com/kelfinofarelino">
-    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=kelfinofarelino&theme=radical&hide_border=true" alt="Farelino's Streak" />
+    <img src="https://img.shields.io/github/commit-activity/y/kelfinofarelino?style=for-the-badge&logo=git&color=232323&label=Commits%20(1%20Year)&labelColor=151515" />
+    <img src="https://img.shields.io/github/last-commit/kelfinofarelino/kelfinofarelino?style=for-the-badge&logo=history&color=232323&label=Last%20Update&labelColor=151515" />
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
