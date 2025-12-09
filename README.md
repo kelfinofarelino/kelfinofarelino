@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ｈｅｌｌｏ Ｗｏｒｌｄ！ 
-This is Farelino Kelfin
+## This is 𝐅𝐚𝐫𝐞𝐥𝐢𝐧𝐨 𝐊𝐞𝐥𝐟𝐢𝐧
 
 A **Information Technology** student and passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
 </div>
@@ -39,19 +39,16 @@ Here are the technologies and software I use, grouped by function:
 <div align="center">
   <a href="https://github.com/kelfinofarelino">
     <img src="https://img.shields.io/github/followers/kelfinofarelino?style=for-the-badge&logo=github&color=232323&label=Followers&labelColor=151515" />
-    <img src="https://img.shields.io/github/stars/kelfinofarelino?style=for-the-badge&logo=github&color=232323&label=Stars&labelColor=151515" />
-    <img src="https://img.shields.io/github/repositories/kelfinofarelino?style=for-the-badge&logo=github&color=232323&label=Repositories&labelColor=151515" />
   </a>
   <br/>
   <a href="https://github.com/kelfinofarelino">
-    <img src="https://img.shields.io/github/commit-activity/y/kelfinofarelino?style=for-the-badge&logo=git&color=232323&label=Commits%20(1%20Year)&labelColor=151515" />
     <img src="https://img.shields.io/github/last-commit/kelfinofarelino/kelfinofarelino?style=for-the-badge&logo=history&color=232323&label=Last%20Update&labelColor=151515" />
   </a>
 </div>
 
 ---
 
-# Watch the *game* animation move along my contribution!
+### Watch the *game* animation move along my contribution!
 
 <div align="center">
   <picture>
@@ -65,11 +62,16 @@ Here are the technologies and software I use, grouped by function:
 ### 🌐 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/farelino-kelfin-117637ab/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Farelino Kelfin LinkedIn" />
+  <a href="mailto:farelinokelvin@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/farelino-kelfin-117637ab/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
   <a href="https://instagram.com/farelino.kelfino" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Farelino Kelfin Instagram" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
