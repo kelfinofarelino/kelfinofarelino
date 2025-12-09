@@ -1,8 +1,9 @@
 <div align="center">
 
-# Ｈｅｌｌｏ Ｗｏｒｌｄ！ This is Farelino Kelfin
+# Ｈｅｌｌｏ Ｗｏｒｌｄ！ 
+# This is Farelino Kelfin
 
-**Information Technology** student at UPN "Veteran" Yogyakarta. I am passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
+**Information Technology** student and passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
 </div>
 
 ---
@@ -52,7 +53,7 @@ Here are the technologies and software I use, grouped by function:
 
 ---
 
-Watch the *game* animation move along my contribution!
+# Watch the *game* animation move along my contribution!
 
 <div align="center">
   <picture>
