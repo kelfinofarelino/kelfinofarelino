@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ｈｅｌｌｏ Ｗｏｒｌｄ！ Ｔｈｉｓ ｉｓ Ｆａｒｅｌｉｎｏ Ｋｅｌｆｉｎ
+# Ｈｅｌｌｏ Ｗｏｒｌｄ！ This is Farelino Kelfin
 
 **Information Technology** student at UPN "Veteran" Yogyakarta. I am passionate about **Full-Stack Development**, **Data Science**, and **Creative Media**.
 </div>
@@ -35,9 +35,20 @@ Here are the technologies and software I use, grouped by function:
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=kelfinofarelino&theme=monokai" alt="Ringkasan Profil GitHub" />
-</p>
+<div align="center">
+  <a href="https://github.com/kelfinofarelino">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=kelfinofarelino&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Farelino's GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/kelfinofarelino">
+    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=kelfinofarelino&theme=radical&hide_border=true" alt="Farelino's Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
