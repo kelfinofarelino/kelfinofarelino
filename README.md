@@ -11,7 +11,7 @@
 
 ###
 
-(https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kelfinofarelino&icon=0&color=0)](https://visitcount.itsvg.in)
