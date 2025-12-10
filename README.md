@@ -43,8 +43,8 @@ Here are the technologies and software I use, grouped by function:
   <a href="https://github.com/kelfinofarelino">
     <img src="https://img.shields.io/github/last-commit/kelfinofarelino/kelfinofarelino?style=for-the-badge&logo=history&color=232323&label=Last%20Update&labelColor=151515" />
   </a>
-  <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelfinofarelino" alt="GitHub Streak" /></a>
+  <a href="https://streak-stats.demolab.com?user=kelfinofarelino">
+    <img src="https://streak-stats.demolab.com?user=kelfinofarelino" alt="GitHub Streak" /></a>
 </div>
 
 ---
