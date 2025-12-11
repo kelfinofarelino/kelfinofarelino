@@ -37,15 +37,17 @@ Here are the technologies and software I use, grouped by function:
 
 <div align="center">
   <a href="https://github.com/kelfinofarelino">
-    <img src="https://img.shields.io/github/followers/kelfinofarelino?style=for-the-badge&logo=github&color=232323&label=Followers&labelColor=151515" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kelfinofarelino&show_icons=true&theme=radical&hide_border=true" alt="Statistik Utama" />
   </a>
-  <br/>
   <a href="https://github.com/kelfinofarelino">
-    <img src="https://img.shields.io/github/last-commit/kelfinofarelino/kelfinofarelino?style=for-the-badge&logo=history&color=232323&label=Last%20Update&labelColor=151515" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&layout=compact&theme=radical&hide_border=true" alt="Bahasa Teratas" />
   </a>
+  
   <br/>
-  <a href="https://streak-stats.demolab.com?user=kelfinofarelino">
-    <img src="https://streak-stats.demolab.com?user=kelfinofarelino" alt="GitHub Streak" /></a>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kelfinofarelino&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
