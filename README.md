@@ -36,18 +36,7 @@ Here are the technologies and software I use, grouped by function:
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/kelfinofarelino">
-    <img src="https://github-readme-stats.vercel.app/api?username=kelfinofarelino&show_icons=true&theme=radical&hide_border=true" alt="Statistik Utama" />
-  </a>
-  <a href="https://github.com/kelfinofarelino">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelfinofarelino&layout=compact&theme=radical&hide_border=true" alt="Bahasa Teratas" />
-  </a>
-  
-  <br/>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kelfinofarelino&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://metrics.lecoq.io/kelfinofarelino?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&languages.limit=8&config.timezone=Asia%2FJakarta" alt="Metrics Kelfin" />
 </div>
 
 ---
