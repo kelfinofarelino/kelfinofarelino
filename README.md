@@ -35,9 +35,14 @@ Here are the technologies and software I use, grouped by function:
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/kelfinofarelino?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&languages.limit=8&config.timezone=Asia%2FJakarta" alt="Metrics Kelfin" />
-</div>
+<p align="center">
+  <img src="https://github.com/kelfinofarelino/kelfinofarelino/blob/main/profile-summary-card-output/radical/0-profile-details.svg?raw=true" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kelfinofarelino/kelfinofarelino/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg?raw=true" alt="Top Languages" />
+  <img src="https://github.com/kelfinofarelino/kelfinofarelino/blob/main/profile-summary-card-output/radical/3-stats.svg?raw=true" alt="Stats" />
+</p>
 
 ---
 
