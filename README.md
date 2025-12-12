@@ -40,6 +40,12 @@ Here are the technologies and software I use, grouped by function:
 </p>
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kelfinofarelino&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github.com/kelfinofarelino/kelfinofarelino/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg?raw=true" alt="Top Languages" />
   <img src="https://github.com/kelfinofarelino/kelfinofarelino/blob/main/profile-summary-card-output/radical/3-stats.svg?raw=true" alt="Stats" />
 </p>
