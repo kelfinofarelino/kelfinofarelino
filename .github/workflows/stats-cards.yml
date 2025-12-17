@@ -1,21 +1,37 @@
-name: GitHub-Profile-Summary-Cards
-
+name: Metrics
 on:
-  schedule: # Jalan otomatis setiap 24 jam
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Bisa dijalankan manual
-
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: generate-github-cards
     permissions:
       contents: write
-      
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: kelfinofarelino
+          template: classic
+          base: ""
+          config_timezone: Asia/Jakarta
+          
+          # Plugin: Kalender Streak
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # --- KONFIGURASI WARNA (TEMA RADICAL) ---
+          # Mengubah warna agar sama persis dengan gambar yang kamu kirim
+          extras_css: |
+            /* Background Gelap Keunguan */
+            svg { background-color: #141321 !important; border-radius: 6px; }
+            
+            /* Judul Besar (Pink) */
+            .header, h1, h2, h3 { fill: #fe428e !important; }
+            
+            /* Teks Biasa & Label (Cyan/Biru Muda) */
+            text, .field, .stat { fill: #a9fef7 !important; }
+            
+            /* Warna Ikon (Opsional: Kuning agar kontras) */
+            .icon svg { fill: #f8d847 !important; }
