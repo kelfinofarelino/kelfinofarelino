@@ -1,6 +1,8 @@
-name: Metrics
+name: Calendar
 on:
+  # Update otomatis setiap jam 00:00
   schedule: [{cron: "0 0 * * *"}]
+  # Bisa dijalankan manual
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -11,27 +13,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Token ini otomatis ada, tidak perlu buat baru
           token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Opsi: User
           user: kelfinofarelino
           template: classic
           base: ""
           config_timezone: Asia/Jakarta
           
-          # Plugin: Kalender Streak
+          # Plugin: Kalender Streak (Isocalendar)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
-          # --- KONFIGURASI WARNA (TEMA RADICAL) ---
-          # Mengubah warna agar sama persis dengan gambar yang kamu kirim
+
+          # --- BAGIAN INI UNTUK MENYAMAKAN WARNA ---
+          # Background: #141321 (Gelap Keunguan)
+          # Judul: #fe428e (Pink)
+          # Teks: #a9fef7 (Cyan/Biru Muda)
           extras_css: |
-            /* Background Gelap Keunguan */
             svg { background-color: #141321 !important; border-radius: 6px; }
-            
-            /* Judul Besar (Pink) */
             .header, h1, h2, h3 { fill: #fe428e !important; }
-            
-            /* Teks Biasa & Label (Cyan/Biru Muda) */
             text, .field, .stat { fill: #a9fef7 !important; }
-            
-            /* Warna Ikon (Opsional: Kuning agar kontras) */
-            .icon svg { fill: #f8d847 !important; }
